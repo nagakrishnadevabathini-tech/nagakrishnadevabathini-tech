@@ -56,7 +56,6 @@
 - Linux
 
 ### 💻 Languages
-- Java
 - Bash
 - Python (Basic)
 
