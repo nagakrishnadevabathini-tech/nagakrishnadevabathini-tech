@@ -108,19 +108,19 @@ AWS Services
 
 ---
 
+## 💻 Operating System & Tools
+
+| Category | Technologies |
+|----------|--------------|
+| 🖥️ Operating System | Linux (Ubuntu, Amazon Linux) |
+| 📜 Scripting | Bash, Python |
+| 🔀 Version Control | Git, GitHub |
+
 ## 📊 Monitoring
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
----
-
-## 💻 Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git" />
-</p>
+| Category | Technologies |
+|----------|--------------|
+| 📈 Monitoring | Prometheus, Grafana |
 
 ---
 
